@@ -39,8 +39,10 @@ tic-tac-toe/
 
 ## Live Demo
 
-<!-- Add your link below after enabling GitHub Pages -->
-[Play Online](https://your-username.github.io/your-repo-name/)
+## Live Demo
+
+[Play Online](https://aathi-s345.github.io/tic-tac-toe-project/)
+
 
 ## Getting Started
 
